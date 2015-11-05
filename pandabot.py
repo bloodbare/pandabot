@@ -68,6 +68,9 @@ def telegramWebHook():
 if __name__ == "__main__":
     triggers = {
         "gamba": "MARIPURI!",
+        "pamela": "PAMELA CHU!",
+        "str": "El proyecto mas cachondo del mundo",
+        "machine": "Machine learning: o como sumar 2+2 de forma cool",
         "orujo": "{username}: por el culo te la estrujo",
         "fanta": "{username}: por el culo te la estrujo",
         "!deseo": "{username}: tu deseo ha sido concedido",
